@@ -1,29 +1,60 @@
-body {background-color: grey}
-h1 {font-size: 30px;
-    color: black
-    ; text-align: center;
+body {
+    background-color: grey
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
     background-color: chocolate;
-}  
- 
-
- h2 {text-align: center;
-color: black;
-font-size: 30px;
-background-color: coral;
-}
- 
- h3 {font-size: 20px;
-color:black;
-text-align: justify;
 }
 
-p {font-size: 20px;
-color: black;
-text-align: justify;
-} 
 
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    background-color: coral;
+}
 
+h3 {
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+}
 
+p {
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+}
 
+img {
+    width: 200px;
 
+}
 
+.h1-1 {
+    color: white;
+    padding-top: 100px;
+    padding-block: 100px;
+    
+}
+
+.h2-pagina-dedicada {
+    color: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.h2-identidade {
+    color: blue;
+    padding-left: 50px;
+}
+
+.h2-local {
+    color: green
+}
+#h2-objetivo{color:violet}
+.computador{width: 150px;}
